@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>User 07b</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#806A6A" offset="0%"></stop>
+            <stop stop-color="#665654" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="40" cy="40" r="40"></circle>
+        <filter x="-98.0%" y="-68.1%" width="296.0%" height="236.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0.145098039  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#F7B186" offset="0%"></stop>
+            <stop stop-color="#FFC299" offset="100%"></stop>
+        </linearGradient>
+        <path d="M29.1594001,42.9979263 C24.2995001,46.5647914 19.4396,49.4182835 14.5797,49.4182835 C9.71980002,49.4182835 4.85990001,46.5647914 3.7274373e-14,42.9979263 C4.00587937,41.7675722 6.0377764,39.9309349 6.0956911,37.4880144 C6.09450501,37.0525083 6.09249099,36.4341154 6.08964902,35.272742 C6.08919779,35.0883465 6.08872569,34.8994206 6.08823272,34.7062173 C6.08025468,31.5922207 6.0672577,27.4843144 6.04909005,23.3099201 C2.24986714,18.3403794 3.6454722,12.5141068 4.83614418,12.6594071 C6.29692466,12.8376693 18.9422918,0.727911049 21.3678435,0.108299347 C23.7933953,-0.511312356 29.9546564,1.49061379 31.0149983,7.07501045 C32.0753401,12.6594071 32.5185546,26.7353906 28.4966864,32.355167 C27.3521968,33.9543681 25.549847,34.5798648 23.089637,34.2316572 C23.0863102,35.4003823 23.0793569,36.0563089 23.0624346,37.3801137 C23.093858,39.9346779 25.1261799,41.7688261 29.1594001,42.9979263 Z" id="path-6"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#1D0024" offset="0%"></stop>
+            <stop stop-color="#100014" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#1D0024" offset="0%"></stop>
+            <stop stop-color="#100014" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#806A6A" offset="0%"></stop>
+            <stop stop-color="#665654" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.08743169,1.32297958 L6.42622951,25.6658039 L0,25.6658039 L1.33879781,1.32297958 C2.17182757,0.440993193 2.79659988,0 3.21311475,0 C3.62962963,0 4.25440194,0.440993193 5.08743169,1.32297958 Z" id="path-11"></path>
+        <path d="M5.3926099,6.26876779 L1.18196221,3.86469349 L1.33879781,1.32297958 C2.17182757,0.440993193 2.79659988,0 3.21311475,0 C3.62962963,0 4.25440194,0.440993193 5.08743169,1.32297958 L5.3926099,6.26876779 L5.3926099,6.26876779 Z" id="path-13"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05" transform="translate(-488.000000, -304.000000)">
+            <g id="Group-3" transform="translate(412.000000, 244.000000)">
+                <g id="User-07b" transform="translate(76.000000, 60.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                    <g id="Group-10" mask="url(#mask-3)">
+                        <g transform="translate(18.410031, 8.628388)" id="Group-11">
+                            <g transform="translate(0.000000, 0.000000)">
+                                <g transform="translate(18.623398, 26.804429) scale(-1, 1) translate(-18.623398, -26.804429) translate(0.000000, 0.000000)" id="Group-14" filter="url(#filter-4)">
+                                    <g id="Path-48" transform="translate(1.244549, 4.190575)">
+                                        <mask id="mask-7" fill="white">
+                                            <use xlink:href="#path-6"></use>
+                                        </mask>
+                                        <use id="Combined-Shape" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                                        <path d="M23.0624346,34.2277712 C19.1745146,33.7819131 15.9934891,32.7118536 13.5193582,31.0175926 C16.3469364,34.5844577 19.5279619,36.7245768 23.0624346,37.4379498 L23.0624346,34.2277712 Z" fill="#FC9F6A" fill-rule="nonzero" mask="url(#mask-7)"></path>
+                                    </g>
+                                    <path d="M5.35337323,27.5839932 C3.52698193,23.1511387 -3.79207497,14.123567 2.51663539,8.50575441 C4.63731903,-1.92732609 16.3544196,-0.772584611 24.1744406,1.63504935 C29.4302812,3.25322155 33.3990909,6.45031727 34.2476878,4.04268331 C39.549397,8.50575441 36.8943965,12.8706745 33.3990909,14.123567 C30.2269951,15.2606049 24.8628512,16.3974435 15.7429353,15.327384 C14.1137513,15.1362283 14.4549363,20.1715412 13.5842846,20.7160039 C12.278307,21.532698 11.2644554,16.3974435 7.68378101,17.9393377 C4.1031066,19.4812319 6.22783176,26.6308141 10.0715709,26.6308141 C11.3969981,26.6308141 12.0597118,30.3082175 8.48105813,32.0470643 C5.88354414,33.3355632 6.54010068,30.4643124 5.35337323,27.5839932 Z" id="Path-22" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-23" mask="url(#mask-3)">
+                        <g transform="translate(7.868852, 51.147541)">
+                            <path d="M60.2459016,13.0466511 C61.9453232,16.461138 63.284121,22.1058508 64.2622951,29.9807897 L0,29.9807897 C0.978641861,22.1049684 2.31743968,16.4602555 4.01639344,13.0466511 C5.71534721,9.63304666 11.5256649,6.34314275 21.4473466,3.17693937 C29.6711404,6.35158738 34.7037184,6.35094494 42.8069362,3.17515099 C52.7334917,6.3416642 58.5464801,9.63216424 60.2459016,13.0466511 Z" id="Combined-Shape" fill="url(#linearGradient-9)" fill-rule="nonzero"></path>
+                            <g id="Group-22" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(28.918033, 3.704343)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-10)" fill-rule="nonzero" xlink:href="#path-11"></use>
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#645050" fill-rule="nonzero" xlink:href="#path-13"></use>
+                            </g>
+                            <path d="M40.6994536,0 L43.1092896,3.43974691 L34.8087432,8.46706931 L32.1310055,3.701 L29.4535519,8.46706931 L21.1530055,3.43974691 L23.5628415,0 L32.1310055,3.127 L40.6994536,0 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

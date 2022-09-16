@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>User 03C</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FFC9B3" offset="0%"></stop>
+            <stop stop-color="#FFD2C2" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="40" cy="40" r="40"></circle>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#E6864E" offset="0%"></stop>
+            <stop stop-color="#E67240" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#1D0024" offset="0%"></stop>
+            <stop stop-color="#100014" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFE0CC" offset="0%"></stop>
+            <stop stop-color="#FFEADB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.95084235,30.7738669 C4.95084235,28.3654773 4.86909322,16.4863183 4.8731099,16.2854883 C-1.72522026,17.2601254 -1.59169901,4.68297975 5.0843636,7.76036644 C6.55309737,8.69696239 10.6922562,7.76036644 10.2916924,0 C17.50184,7.76036644 25.8727644,-1.29086287 26.5905919,6.08459401 C27.5707879,16.1558069 26.5848121,26.6954239 20.3388725,26.6960787 C19.7410966,26.6961413 19.0624617,26.6282103 18.3029676,26.4922854 C18.3029676,28.0086789 18.3029676,29.7926712 18.3029676,30.7738669 C18.3029676,32.5578592 19.9052226,33.8958534 23.1097326,34.7878496 C17.5745613,40.0141644 13.6579379,42.613355 11.3598625,42.5854214 C9.06178696,42.5571876 5.3231919,39.957997 0.144077271,34.7878496 C3.34858732,33.8958534 4.95084235,32.5578592 4.95084235,30.7738669 Z" id="path-7"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#130027" offset="0%"></stop>
+            <stop stop-color="#130017" offset="100%"></stop>
+        </linearGradient>
+        <path d="M52.0732883,9.3659595 C53.3649361,12.2421369 54.3440919,18.0401118 55.0107559,26.7598843 L0,26.7598843 C0.666666667,18.0401118 1.64582252,12.2421369 2.93746755,9.3659595 C4.63469433,5.58665883 15.8192004,1.24733636 19.0969558,0 C20.9901948,2.12150104 23.7017306,3.47878496 27.5053779,3.47878496 C31.3090252,3.47878496 34.0205611,2.12150104 35.9138001,0 C39.1915555,1.24733636 50.3760615,5.58665883 52.0732883,9.3659595 Z" id="path-10"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05" transform="translate(-820.000000, -304.000000)">
+            <g id="Group" transform="translate(744.000000, 244.000000)">
+                <g id="User-03C" transform="translate(76.000000, 60.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <g id="Group-7" mask="url(#mask-3)">
+                        <g transform="translate(8.788896, 8.215809)">
+                            <path d="M27.973251,47.4168806 C25.7959484,43.4833736 20.7463418,35.912774 8.47013132,25.0937158 C-10.0545301,8.76788046 8.44860316,-4.92300313 27.5199952,3.38196184 C29.5601796,4.27039511 35.4072652,1.20445974 40.5969658,4.8321673 C43.9448028,7.17237422 42.5505206,8.86561076 43.823466,10.6521268 C45.0964114,12.4386429 50.2423122,12.5164846 51.2103918,17.0744589 C51.7838627,19.7745115 49.8393936,22.5136058 50.0155214,24.5366628 C50.1916492,26.5597198 52.0771038,28.4441274 52.0771038,31.1069336 C52.0771038,35.840425 48.2528364,39.6779558 43.53613,39.6782985 C43.3498068,44.2751873 39.5873957,47.9543413 34.9690496,47.9546769 C33.4952088,47.954784 32.1085928,47.5802191 30.8986057,46.9207047 C29.5963277,48.041465 28.5006805,48.3697328 27.973251,47.4168806 Z" id="Combined-Shape" fill="url(#linearGradient-4)" fill-rule="evenodd" transform="translate(26.441653, 24.428492) scale(-1, 1) rotate(-2.000000) translate(-26.441653, -24.428492) "></path>
+                            <path d="M28.8433268,2.40569534 C25.554519,4.5199521 21.4853751,11.453139 23.271534,20.7605153 C23.6612792,22.7914127 22.4438683,23.3994394 21.4022365,20.8943147 C18.2599156,13.3370329 17.8958088,6.52162961 23.2710844,3.26145012 C24.2061828,2.69759339 24.7402678,3.1544422 25.407874,3.09899165 C26.6775237,2.99353612 28.3872018,2.09210616 28.8433268,2.40569534 Z" id="Path-4" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                            <g id="Group-6" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(19.619804, 12.574451)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <use id="Mask" fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                                <path d="M9.02510589,26.3303398 C12.6684993,25.67117 15.7965242,24.4326162 18.4091805,22.6146785 C16.7416916,26.3230699 13.5852616,28.4531716 8.93989071,29.0049835 L9.02510589,26.3303398 Z" id="Path-2" fill="#FFDBC9" style="mix-blend-mode: multiply;" mask="url(#mask-8)" transform="translate(13.674536, 25.809831) scale(-1, 1) rotate(-2.000000) translate(-13.674536, -25.809831) "></path>
+                            </g>
+                            <g id="Combined-Shape" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(3.741331, 46.024307)">
+                                <g>
+                                    <mask id="mask-11" fill="white">
+                                        <use xlink:href="#path-10"></use>
+                                    </mask>
+                                    <use id="Mask" fill="url(#linearGradient-9)" fill-rule="nonzero" xlink:href="#path-10"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
