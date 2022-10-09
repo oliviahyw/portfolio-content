@@ -20,7 +20,7 @@ nav {
 a.current {
     font-weight: bold;
     text-decoration: none;
-    color: lightskyblue;
+    color: blue;
     border: 3px solid lightskyblue;
     width: fit-content;
 }
