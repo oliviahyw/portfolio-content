@@ -17,7 +17,7 @@ nav {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a.current {
+a:active {
     font-weight: bold;
     color: lightskyblue;
     border: 3px solid lightskyblue;
