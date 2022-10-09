@@ -1,0 +1,37 @@
+/* Skip to Main function */
+.skip a {
+    position: absolute;
+    top: -40px;
+    z-index: 1;
+    color:black;
+}
+
+.skip a:focus {
+    position: absolute;
+    top: 0;
+    color: black;
+}
+
+nav {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.current {
+    font-weight: bold;
+    color: lightskyblue;
+    border: 3px solid lightskyblue;
+    width: fit-content;
+}
+
+img {
+    width: 750px;
+    border: 5px solid lightskyblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+img:hover {
+    width: 800px;
+    opacity: 0.7;
+}
