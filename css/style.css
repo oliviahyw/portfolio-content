@@ -87,7 +87,7 @@ a.current {
 footer {
     grid-column: 1 / span 3;
     height: 60px;
-    background-image: url("../image/footer_bg.jpg");
+    background-image: url("image/footer_bg.jpg");
     color: white;
 }
 
