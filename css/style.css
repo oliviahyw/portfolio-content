@@ -51,8 +51,8 @@ nav {
 a.current {
     font-weight: bold;
     text-decoration: none;
-    color: lightskyblue;
-    border: 3px solid lightskyblue;
+    color: indianred;
+    border: 3px solid indianred;
     width: fit-content;
 }
 
