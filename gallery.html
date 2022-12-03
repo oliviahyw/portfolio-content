@@ -24,13 +24,14 @@
         <div class="skip"><a href="#main">Skip to Main Content</a></div>
 
         <header>
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="project1.html">IBM Garage Experience</a></li>
-                    <li><a href="project2.html">IBM Garage Outcomes</a></li>
-                    <li><a class="current" href="gallery.html">Illustrations</a></li>
-                </ul>
+            <nav class="topnav" id="myTopnav">
+                <a href="index.html">Home</a>
+                <a href="project1.html">IBM Garage Experience</a>
+                <a href="project2.html">IBM Garage Outcomes</a>
+                <a href="gallery.html" class="current">Illustrations</a>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                </a>
             </nav>
         </header>
 
@@ -58,5 +59,16 @@
         <footer>
             &copy; All rights reserved - HAOYUE WEN
         </footer>
+
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myTopnav");
+              if (x.className === "topnav") {
+                x.className += " responsive";
+              } else {
+                x.className = "topnav";
+              }
+            }
+        </script>
     </body>
 </html>
